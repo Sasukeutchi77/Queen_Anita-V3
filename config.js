@@ -27,7 +27,7 @@ global.apilinode = ''// apikey vps account linode
 global.apitokendo = ''
 
 //database 
-global.urldb = ''; // just leave it blank but if you want to use the mongo database, fill in the mongo url
+global.urldb =https://i.imgur.com/32Vaiyx.jpeg
 
 global.limitawal = {
     premium: "Infinity",
